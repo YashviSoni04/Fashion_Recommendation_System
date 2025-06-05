@@ -75,5 +75,6 @@ Health Check: http://localhost:8000/health
 
 ## 🌟 Frontend Preview
 
-<img src="../assets/ui-preview.png" alt="Fashion Recommendation UI" width="100%" />
+![Fashion Recommendation UI](assets/ui-preview.png)
+
 
